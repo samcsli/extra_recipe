@@ -1,6 +1,6 @@
 # Extra recipe jailbreak
 
-Pick your favourite logo:
+Apart from the default Yalu logo, your can also pick your favourite logo:
 
 ![logo0](https://github.com/samcsli/extra_recipe/blob/master/CollegeHumor.png?raw=true)by [CollegeHumor](https://www.youtube.com/watch?v=PWiT6VbVpjg)
 
