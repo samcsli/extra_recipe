@@ -19,7 +19,7 @@ Please use the "Issues" tab for **code related** issues only. If you need suppor
 
 | Device | Version |
 |---------|----------|
-| iPhone 7  | iOS 10.0.0 -> iOS 10.1.1 |
+| iPhone 7  | iOS 10.1.0 -> iOS 10.1.1 |
 
 **Note, the iPhone 7 is only supported till iOS 10.1.1**
 If you are already on iOS 10.2 with an iPhone 7, **stay there**. The actual exploit behind this still works, but the KPP bypass does not.
