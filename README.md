@@ -2,7 +2,7 @@
 
 Pick your favourite logo:
 
-![logo0](https://github.com/samcsli/extra_recipe/blob/master/CollegeHumor.png?raw=true)by CollegeHumor
+![logo0](https://github.com/samcsli/extra_recipe/blob/master/CollegeHumor.png?raw=true)by [CollegeHumor](https://www.youtube.com/watch?v=PWiT6VbVpjg)
 
 ![logo1](https://github.com/samcsli/extra_recipe/blob/master/mod-appico.png?raw=true)by wind3v
 
